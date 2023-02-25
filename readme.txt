@@ -9,7 +9,7 @@
 raw_data.7z --v
 	2009_2021_taxassements.parquet    |    Parcel tax assement data that was used and originally sourced from mecklenburg county, this is for year 2009 to 2021
 	2009_2023_salesdata.parquet    |    Parcel transaction data that was used and originally sourced from mecklenburg county, this is for years 2023
-mecklenburgcounty_property_transactions_export.csv    |    Large csv of property sales that occurered with tax assments for the year of sale joined on. Rent prices at the time of scrape are also joined on for the properties that have rental information. Since this is dependant on tax assement data it only goes to 2021
+mecklenburgcounty_property_transactions_export.csv    |    Large csv of property sales that occurered with tax assments for the year of sale joined on. Rent prices at the time of scrape are also joined on for the properties that have rental information. Since this is dependant on tax assement data it only goes to 2021. This also only uncludes data for parcels with a type of Single-Family home
 mecklenburgcounty_rental_information_export.csv    |   Large csv of all rental information gathered from Zillow and Apartments.com
 
 ## Notes
