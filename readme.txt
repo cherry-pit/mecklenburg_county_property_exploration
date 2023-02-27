@@ -16,4 +16,4 @@ mecklenburgcounty_rental_information_export.csv    |   Large csv of all rental i
 
 Some sales were unable to be matched to tax records, these occurences were omited from the mecklenburgcounty_property_transactions_export.csv.
 
-The vast majority of values in the rent field are null, this is expected. Records included for any property sale. Most are not for rent. Provided is the raw scraped rental data as well for any needs.
+The vast majority of values in the rent field are null, this is expected. Records are included for any property sale. Most are not for rent. Provided is the raw scraped rental data as well for any needs.
