@@ -2,7 +2,7 @@
 - Historical tax data can be found for Mecklenburg County here: https://mecklenburgcounty.exavault.com/share/view/mg5f-3uke3hyw
 - Parcel sale information can be found here: http://maps.co.mecklenburg.nc.us/opendata/Parcel_SalesData.zip
 - Rental data was pulled from here: https://www.apartments.com/houses/1/?sk=528d8aef8b5a3a582f429474b0bb3191&bb=zv026oh92Hs6xxo3V
-- Retnal data was pulled from as well: https://www.zillow.com/mecklenburg-county-nc/rent-houses/
+- Retnal data was pulled from here as well: https://www.zillow.com/mecklenburg-county-nc/rent-houses/
 
 ## Files included
 
